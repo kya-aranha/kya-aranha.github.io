@@ -1649,7 +1649,7 @@ br.mobile-break {
     display: none;
 }
 
-@media screen and (max-width: 736px) {
+@media screen and (max-width: 1000px) {
     br.mobile-break {
         display: inline !important;
     }
