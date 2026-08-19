@@ -1646,7 +1646,7 @@ button {
 
 
 br.mobile-break {
-    display: none;
+    display: inline;
 }
 
 @media screen and (max-width: 1000px) {
